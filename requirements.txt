@@ -1,0 +1,8 @@
+# Kaggle supplies PyTorch, torchvision, NumPy and pandas.
+datasets>=3,<5
+huggingface_hub>=0.27,<2
+PyYAML>=6
+matplotlib
+scikit-learn
+tqdm
+pillow

@@ -1,0 +1,9 @@
+Unnamed: 0,Metric,Value
+0,accuracy,0.771599
+1,macro_f1,0.56458
+2,macro_sensitivity,0.566715
+3,macro_specificity,0.9442
+4,macro_auc,0.78477
+5,brier_multiclass,0.438354
+6,ece_toplabel_15bins,0.210256
+7,best_epoch,14.0

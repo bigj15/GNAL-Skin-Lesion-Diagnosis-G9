@@ -1,0 +1,10 @@
+{
+  "accuracy": 0.7715988083416088,
+  "macro_f1": 0.5645801258121771,
+  "macro_sensitivity": 0.5667151132050275,
+  "macro_specificity": 0.9442004834438423,
+  "macro_auc": 0.7847695928484565,
+  "brier_multiclass": 0.43835443739237,
+  "ece_toplabel_15bins": 0.21025570197162236,
+  "best_epoch": 14
+}
